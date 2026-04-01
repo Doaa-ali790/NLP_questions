@@ -24,6 +24,20 @@ This repository contains a collection of **Natural Language Processing (NLP)** q
 
 This repository is created to help students review important NLP concepts in a simple and organized way.
 
+# NLP Exam Preparation
+
+This repository contains NLP exam questions and answers in PDF format.
+
+## 📄 PDF File
+
+[Download the PDF](./nlp_exam_questions.pdf)
+
+## 📌 Note
+
+If the PDF preview does not work on GitHub, please download the file directly.
+
+
+
 ## 👩‍🎓 Suitable For
 
 * NLP students
